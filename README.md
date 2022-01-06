@@ -254,7 +254,7 @@ input,textarea{
     font-family:'Raleway'
 }
 .wordmark-2iDDfm::before{
-    content:'game';
+    content:'Vodka';
     font-size:14px;
     z-index:1000;
     position:fixed;
@@ -269,7 +269,7 @@ input,textarea{
     background-color: var(--primary-color)!important;
 }
 .wordmark-2iDDfm::after{
-    content:'sense';
+    content:'Sense';
     font-size:14px;
     z-index:1000;
     position:fixed;
